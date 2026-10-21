@@ -207,6 +207,7 @@
 | [ProofPointBlog](https://www.proofpoint.com/us/blog/threat-insight) | The Proofpoint cybersecurity blog provides you with advanced cybersecurity intelligence and insights, threat research, and breaking cyber attack news. Get the latest news about advanced threats |
 | [r/SecurityCareerAdvice/](https://www.reddit.com/r/SecurityCareerAdvice/) | This is a place to connect those seeking to learn with those who have walked the path before. Ask your questions about cybersecurity careers here, and mentors can choose to answer as they have time |
 | [/r/netsec/](https://www.reddit.com/r/netsec/) | Join r/netsec, a community of technical information security enthusiasts, to share, discuss, and learn from the latest security content and news |
+| [ICHI - Internet Cyber Health Index](https://ichi.global) | Free daily internet cyber-health barometer aggregating signals from 20+ threat intelligence feeds. Provides a macro view of current attack activity levels, trending threats, and source-cited security alerts — useful for SOC situational awareness and morning briefings. |
 
 </br>
 
